@@ -11,3 +11,9 @@ Como apasionado de la programación, estoy en continuo proceso de estudio y desa
 ### Actualmente:
 
 - Me encuentro formándome sobre el Framework Spring, más exactamente con Spring Boot 🌱
+
+### Conocimientos Técnicos:
+
+- **Lenguajes**: Java, Kotlin, SQL, HTML, CSS, Spring Boot, C#, Python
+- **Bases de Datos**: MySQL, SQL Server, SQL de Azure
+- **Herramientas**: Git, Docker, Visual Studio, Azure DevOps
