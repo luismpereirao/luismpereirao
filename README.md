@@ -1,16 +1,13 @@
-## Hi there 👋
+## ¡Hola a todos!👋 
 
-<!--
-**luismpereirao/luismpereirao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Luis Mariano Pereira 😁
 
-Here are some ideas to get you started:
+Soy un recién graduado en Desarrollo de Aplicaciones Multiplataforma (DAM), con ganas de aprender y ganar experiencia en el sector 🖥️💪. Mi perseverancia y constancia me han hecho llegar a conseguir la titulación en este módulo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Durante las FCT he trabajado en un gran proyecto de IoT, desarrollando en el framework ASP.NET Core con C#, demostrando mi capacidad de resiliencia, esfuerzo y trabajo en equipo.
+
+Como apasionado de la programación, estoy en continuo proceso de estudio y desarrollo práctico de software.
+
+### Actualmente:
+
+- Me encuentro formándome sobre el Framework Spring, más exactamente con Spring Boot 🌱
