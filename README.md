@@ -2,7 +2,7 @@
 
 Mi nombre es Luis Mariano Pereira 😁
 
-###👋 Ingeniero de Software y Desarrollador Backend con una visión clara: fusionar la robustez del desarrollo web tradicional con la potencia de la Inteligencia Artificial.
+### 👋 Ingeniero de Software y Desarrollador Backend con una visión clara: fusionar la robustez del desarrollo web tradicional con la potencia de la Inteligencia Artificial.
 
 ### 🚀 Mi Perfil Técnico: 
 Titulado en Desarrollo de Aplicaciones Multiplataforma (DAM) y actualmente cursando un Máster en Inteligencia Artificial y Big Data. Mi enfoque no es solo escribir código, sino diseñar arquitecturas escalables y eficientes.
