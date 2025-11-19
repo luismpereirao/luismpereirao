@@ -2,19 +2,16 @@
 
 Mi nombre es Luis Mariano Pereira 😁
 
-Soy un recién graduado en Desarrollo de Aplicaciones Multiplataforma (DAM), con ganas de aprender y ganar experiencia en el sector 🖥️💪. Mi perseverancia y constancia me han hecho llegar a conseguir la titulación en este módulo.
+###👋 Ingeniero de Software y Desarrollador Backend con una visión clara: fusionar la robustez del desarrollo web tradicional con la potencia de la Inteligencia Artificial.
 
-Durante las FCT he trabajado en un gran proyecto de IoT, desarrollando en el framework ASP.NET Core 7.0 con C#, demostrando mi capacidad de resiliencia, esfuerzo y trabajo en equipo.
+###🚀 Mi Perfil Técnico: 
+Titulado en Desarrollo de Aplicaciones Multiplataforma (DAM) y actualmente cursando un Máster en Inteligencia Artificial y Big Data. Mi enfoque no es solo escribir código, sino diseñar arquitecturas escalables y eficientes.
 
-Como apasionado de la programación, estoy en continuo proceso de estudio y desarrollo práctico de software.
+###💼 Experiencia Real:
+Durante mi etapa en Wembley Studios, trabajé en el desarrollo de un ecosistema IoT a gran escala utilizando ASP.NET Core (C#). Allí aprendí la importancia del Código Limpio (Clean Code), el diseño de APIs Rest optimizadas y la arquitectura MVC en entornos de producción.
 
-### Actualmente:
+### 🤖 El Siguiente Nivel (IA + Dev): 
+No me conformo con lo básico. Actualmente, estoy llevando mis habilidades Full Stack (Java Spring Boot + React) al siguiente nivel, integrando módulos de Machine Learning y análisis de datos mediante Python y ML.NET. Mi objetivo es crear aplicaciones que no solo gestionen datos, sino que aprendan de ellos para la toma de decisiones.
 
-- Me encuentro formándome sobre el Framework Spring, más exactamente con Spring Boot 🌱
-- También estoy desarrollando un proyecto para un taller de lunas de vehiculos 🚗, con la finalidad de mejorar la gestión de este usando Spring Boot.
-
-### Conocimientos Técnicos:
-
-- **Lenguajes**: Java, Kotlin, SQL, HTML, CSS, Spring Boot, C#, Python
-- **Bases de Datos**: MySQL, SQL Server, SQL de Azure
-- **Herramientas**: Git, Docker, Visual Studio, Azure DevOps
+### 🛠 Stack Tecnológico: 
+💻 Backend: Java (Spring Boot, JPA), C# (.NET Core, ASP.NET), Python. 🌐 Frontend: React.js, JavaScript, HTML5/CSS3. 📊 Data & AI: ML.NET, PyTorch, Pandas, SQL (MySQL/Server), Web Scraping. ⚙️ Herramientas: Git, metodologías Ágiles (Scrum), VS Code/IntelliJ.
